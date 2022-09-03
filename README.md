@@ -1,4 +1,4 @@
-# Graph NFT Marketplace FCC
+# Graph NFT Marketplace
 
 # Quickstart
 
